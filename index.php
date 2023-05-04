@@ -6,7 +6,7 @@
     <meta name="description" content="Description de la page">
     <meta name="keywords" content="Mots-clés pour les moteurs de recherche">
     <meta name="author" content="Nom de l'auteur">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <header>
@@ -30,7 +30,7 @@
       </section>
     </main>
     <footer>
-      <p>Copyright © Année | Nom de l'auteur
+      <p>Copyright © Année | Nom de l'auteur </p>
     </footer>
   </body>
 </html>
