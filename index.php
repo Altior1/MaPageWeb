@@ -11,6 +11,7 @@
   <body>
     <header>
       <h1>Titre principal de la page</h1>
+      <?php echo "Bienvenue à tous" ?>
       <nav>
         <ul>
           <li><a href="#">Accueil</a></li>
